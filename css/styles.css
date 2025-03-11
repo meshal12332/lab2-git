@@ -1,0 +1,18 @@
+.pragraphs{
+    color: chocolate;
+    font-size: 20px;
+    font-style: oblique;
+    font-variant: unset;
+}
+
+.links{
+    color: blue;
+    font-size: 20px;
+    font-variant: initial;
+}
+
+.header{
+    text-align: center;
+    color: greenyellow;
+    font-variant: small-caps;
+}
